@@ -20,8 +20,8 @@ https://app-schedulr.herokuapp.com/
 ### Technologies Used
 
 HTML5, CSS3, Javascript, jQuery, Bootstrap 4, Google Fonts,
-Font Awesome 5, SweetAlert2, Moment.js, Node, Express, Mocha,
-Chai, MySQL, Sequelize, Handlebars, Nexmo, Multer.js, Passport,
+Font Awesome 5, SweetAlert2, Moment.js, Node, Express, MySQL, 
+Sequelize, Handlebars, Nexmo, Multer.js, Passport,
 Tempus Dominus, Dotenv, Travis, Eslint
 
 ### Challenges
@@ -37,10 +37,16 @@ Project Proposals
 
 ### Contributions
 
+**Libby Duggan**
+Database Models & Associations, Appointment Functionality (CRUD) & API
+routes (Appointment View-Edit-Delete from Summary Tab, create from
+New Appointment Tab), Edit Customer Information on Portal Tab, Customer
+View (/customer endpoint)
+
 **David Padilla**
 Overall HTML & Design, Handlebars Structuring,
 Mobile Responsiveness w/ Bootstrap 4, SMS Integration w/ Nexmo, Summary Block
-Imformation, Form Creations, Customer Lookup Table, README
+Information, Form Creations, Customer Lookup Table, README
 
 **Sara Austin**
 Client Sign Up Form for Landing Page, Data Extraction from Sign Up Form,
@@ -50,10 +56,6 @@ Photo Integration with Multer.js, Presentation
 Authentication Middleware w/ Passport, HTML Route Protection, Client Model Creation w/
 Validation, HTML/API Routes for Sign In/Sign Up Form, Customer Lookup Functionality,
 Asosciation & Sequelize Queries
-
-**Libby Duggan**
-Database Models & Associations, New Appointment Functionality (Editing, Deleting, etc.),
-Edit Customer Information Fuctionality, Appointment Summary Table & Functionality
 
 ### Future Features (had more developmental time been given)
 
