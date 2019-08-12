@@ -1,6 +1,6 @@
 # Schedulr | Client Scheduling Application
 
-Massive Full-stack Project **(Project Duration: 2wks)**
+Use Schedulr to book, manage, and notify customers of upcoming appointments for your small business!
 
 ### Group Team Members
 
